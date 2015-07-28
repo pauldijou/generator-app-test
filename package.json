@@ -1,0 +1,23 @@
+{
+  "name": "generator-app-test",
+  "version": "0.1.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "pauldijou/generator-generator-app-test",
+  "author": {
+    "name": "Paul Dijou",
+    "email": "paul.dijou@gmail.com",
+    "url": "https://github.com/pauldijou"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0"
+  },
+  "devDependencies": {}
+}
